@@ -7,21 +7,21 @@ This is my first step into the world of data handling/analysis and predictive mo
 - titanic_dataset_cleaned.xlsx
 
 ### Actions performed (non-exhaustive)
--Removal of punctuation and spaces- to be code-friendly
--lowercased all text
--Name pasing into first, last, given name
--Created sub-groups like ["infant", "below 18", "adult","family size"]-for modeling / analysis
--Rename, split safety boat identifications and identify instances of multiple boat transfer - for modeling/analysis
--Standardizing ticker number format
+- Removal of punctuation and spaces- to be code-friendly
+- lowercased all text
+- Name pasing into first, last, given name
+- Created sub-groups like ["infant", "below 18", "adult","family size"]-for modeling / analysis
+- Rename, split safety boat identifications and identify instances of multiple boat transfer - for modeling/analysis
+- Standardizing ticker number format
 
 ### Known Issues
--Several missing values are not yet fully handled
--lack of consistency in handling boolean type information)
+- Several missing values are not yet fully handled
+- lack of consistency in handling boolean type information)
 
 ### Purpose of this
--Forms part of my learning journey in data cleaning & formatting
--First public portfolio entry with intenion to upload more repo as I progress along
+- Forms part of my learning journey in data cleaning & formatting
+- First public portfolio entry with intenion to upload more repo as I progress along
 
 ### Next steps
--Perform data cleaning on the same dataset with Python
--Investigate possibility of automating process
+- Perform data cleaning on the same dataset with Python
+- Investigate possibility of automating process
