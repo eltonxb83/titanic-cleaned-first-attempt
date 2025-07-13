@@ -21,3 +21,7 @@ This is my first step into the world of data handling/analysis and predictive mo
 ### Purpose of this
 -Forms part of my learning journey in data cleaning & formatting
 -First public portfolio entry with intenion to upload more repo as I progress along
+
+### Next steps
+-Perform data cleaning on the same dataset with Python
+-Investigate possibility of automating process
